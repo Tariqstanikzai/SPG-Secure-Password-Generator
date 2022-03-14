@@ -36,9 +36,9 @@ This should only be used as an exploration or educational project.
 ## Links:
 
 * The URL of the deployed application.
-
+https://tariqstanikzai.github.io/SPG-Secure-Password-Generator/
 * The URL of the GitHub repository.
- git@github.com:Tariqstanikzai/Secure-Password-Generator.git 
+ https://github.com/Tariqstanikzai/SPG-Secure-Password-Generator
 
 ## Contact
  * @tariq_stanikzai
